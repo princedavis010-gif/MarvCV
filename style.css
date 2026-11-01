@@ -1,3 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond');
+
 body {
-    background-color:yellow
-}
+                background-image: linear-gradient(to left, lightblue, pink);
+                padding-left: 10px
+            }
+            
+            h1 {
+                color: darkslategray;
+            }
+            
+            h2 {
+                color: chocolate;
+                text-decoration: underline
+            }
+            
+            h3 {
+                font-size: 23px;
+            }
+            
+            .header {
+                margin-top: -15px;
+                margin-bottom: 35px;
+                white-space: nowrap;
+                font-size: 19px
+            }
+            
+            a {
+                text-decoration: none
+            }
+            
+            .tel {
+                color: black
+            }
+            
+            .ed {
+                margin-bottom: -16px
+            }
+            
+            p {
+                margin-top: -21px;
+                font-family: EB Garamond, system-ui;
+                font-weight: bold;
+                font-size: 21px;
+            }
+            
+            ul {
+                margin-top: -18px;
+                font-family: EB Garamond, system-ui;
+                font-weight: bold;
+                font-size: 21px
+            }
+            
+            .ref {
+                margin-bottom: -16px
+            }
